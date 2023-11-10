@@ -58,7 +58,7 @@ const About = () => {
           transition={{ duration: 0.8 }}
           className="col-span-5 flex items-center w-[80%] sm:w-[90%] place-self-center ml-10 sm:m-0 "
         >
-          <img src="/images/about.png" alt="meme" loading="lazy" />
+          <img src="/codsoft-portfolio/images/about.png" alt="meme" loading="lazy" />
         </motion.div>
         <motion.div
           ref={refContent}
